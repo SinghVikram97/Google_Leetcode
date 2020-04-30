@@ -1,16 +1,16 @@
 {
    "todos": [
         {
-            text: 'Learn Javascript',
-            completed: false
+            "text": "Learn Javascript",
+            "completed": false
         },
         {
-            text: 'Learn React',
-            completed: false
+            "text": "Learn React",
+            "completed": false
         },
         {
-            text: 'Build a React App',
-            completed: false
+            "text": "Build a React app",
+            "completed": false
         }
     ]
 
