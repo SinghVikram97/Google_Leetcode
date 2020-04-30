@@ -1,11 +1,18 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "todos": [
+        {
+            text: 'Learn Javascript',
+            completed: false
+        },
+        {
+            text: 'Learn React',
+            completed: false
+        },
+        {
+            text: 'Build a React App',
+            completed: false
+        }
+    ]
+
 }
+
